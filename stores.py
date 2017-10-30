@@ -1,4 +1,4 @@
-# The data (X1, Size, Population) are for each patient.
+# The data (Weekly_Sales, Size, Population) are for each store.
 # Weekly_Sales = sales for the store
 # Size = the size of the store
 # Population = Population in the region
